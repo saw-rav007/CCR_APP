@@ -1,0 +1,34 @@
+# Ignore build artifacts
+bin/
+obj/
+
+# IDE-specific folders
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.vspscc
+
+# Entity Framework migration output (optional)
+Migrations/
+
+# User secrets and environment configs
+secrets.json
+*.env
+
+# Dotnet CLI and MSBuild junk
+*.dbmdl
+*.log
+*.cache
+
+# Test results
+TestResults/
+
+# Output of publish or coverage
+publish/
+*.pdb
+*.dll
+*.exe
