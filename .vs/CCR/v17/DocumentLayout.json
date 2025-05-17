@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{233CF579-EE03-4355-8C3A-C4CB91BB202A}|CCR.Api\\CCR.Api.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233CF579-EE03-4355-8C3A-C4CB91BB202A}|CCR.Api\\CCR.Api.csproj|solutionrelative:ccr.api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233CF579-EE03-4355-8C3A-C4CB91BB202A}|CCR.Api\\CCR.Api.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233CF579-EE03-4355-8C3A-C4CB91BB202A}|CCR.Api\\CCR.Api.csproj|solutionrelative:ccr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEFDF8C-A0FC-4503-921A-875EC183893E}|CCR.Infrastructure\\CCR.Infrastructure.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.infrastructure\\presistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEFDF8C-A0FC-4503-921A-875EC183893E}|CCR.Infrastructure\\CCR.Infrastructure.csproj|solutionrelative:ccr.infrastructure\\presistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEFDF8C-A0FC-4503-921A-875EC183893E}|CCR.Infrastructure\\CCR.Infrastructure.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.infrastructure\\presistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEFDF8C-A0FC-4503-921A-875EC183893E}|CCR.Infrastructure\\CCR.Infrastructure.csproj|solutionrelative:ccr.infrastructure\\presistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEFDF8C-A0FC-4503-921A-875EC183893E}|CCR.Infrastructure\\CCR.Infrastructure.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.infrastructure\\ccr.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAEFDF8C-A0FC-4503-921A-875EC183893E}|CCR.Infrastructure\\CCR.Infrastructure.csproj|solutionrelative:ccr.infrastructure\\ccr.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735A7BE0-4754-45D4-BD61-038ECBAE0E03}|CCR.Domain\\CCR.Domain.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735A7BE0-4754-45D4-BD61-038ECBAE0E03}|CCR.Domain\\CCR.Domain.csproj|solutionrelative:ccr.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|solutionrelative:ccr.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.application\\dtos\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|solutionrelative:ccr.application\\dtos\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735A7BE0-4754-45D4-BD61-038ECBAE0E03}|CCR.Domain\\CCR.Domain.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735A7BE0-4754-45D4-BD61-038ECBAE0E03}|CCR.Domain\\CCR.Domain.csproj|solutionrelative:ccr.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FF2DF4-3AF6-40C4-A57F-2E358F6197F7}|CCR.Tests.Unit\\CCR.Tests.Unit.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.tests.unit\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FF2DF4-3AF6-40C4-A57F-2E358F6197F7}|CCR.Tests.Unit\\CCR.Tests.Unit.csproj|solutionrelative:ccr.tests.unit\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|solutionrelative:ccr.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.application\\ccr.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|solutionrelative:ccr.application\\ccr.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B731224-38DA-4B42-959A-8BBDE293FE3D}|CCR.Application\\CCR.Application.csproj|solutionrelative:ccr.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735A7BE0-4754-45D4-BD61-038ECBAE0E03}|CCR.Domain\\CCR.Domain.csproj|c:\\sawrav_work\\ccr\\ccr.backend\\ccr.domain\\ccr.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{735A7BE0-4754-45D4-BD61-038ECBAE0E03}|CCR.Domain\\CCR.Domain.csproj|solutionrelative:ccr.domain\\ccr.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Api\\UserController.cs",
+              "RelativeDocumentMoniker": "CCR.Api\\UserController.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Api\\UserController.cs",
+              "RelativeToolTip": "CCR.Api\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:26:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CCR.Api\\Program.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Api\\Program.cs",
+              "RelativeToolTip": "CCR.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:21:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Infrastructure\\Presistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CCR.Infrastructure\\Presistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Infrastructure\\Presistence\\AppDbContext.cs",
+              "RelativeToolTip": "CCR.Infrastructure\\Presistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:14:49.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Infrastructure\\Presistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CCR.Infrastructure\\Presistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Infrastructure\\Presistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CCR.Infrastructure\\Presistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:13:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CCR.Infrastructure",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Infrastructure\\CCR.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CCR.Infrastructure\\CCR.Infrastructure.csproj",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Infrastructure\\CCR.Infrastructure.csproj",
+              "RelativeToolTip": "CCR.Infrastructure\\CCR.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T17:11:33.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Tests.Unit\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "CCR.Tests.Unit\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Tests.Unit\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "CCR.Tests.Unit\\Services\\UserServiceTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:36:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CCR.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "CCR.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:30:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CCR.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CCR.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:24:20.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CCR.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CCR.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:20:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CCR.Domain",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Domain\\CCR.Domain.csproj",
+              "RelativeDocumentMoniker": "CCR.Domain\\CCR.Domain.csproj",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Domain\\CCR.Domain.csproj",
+              "RelativeToolTip": "CCR.Domain\\CCR.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T12:54:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CCR.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CCR.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:53:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\DTOs\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "CCR.Application\\DTOs\\RegisterUserRequest.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\DTOs\\RegisterUserRequest.cs",
+              "RelativeToolTip": "CCR.Application\\DTOs\\RegisterUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:50:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CCR.Application",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\CCR.Application.csproj",
+              "RelativeDocumentMoniker": "CCR.Application\\CCR.Application.csproj",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\CCR.Application.csproj",
+              "RelativeToolTip": "CCR.Application\\CCR.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T12:49:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "CCR.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Sawrav_Work\\CCR\\CCR.Backend\\CCR.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "CCR.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:52:19.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5McvWWeqz7ZV7ms3tZNhtJqPZr/zpW/WnrftlEbCyBE=",
+  "Source": "CCR.Api",
+  "BasePath": "_content/CCR.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Infrastructure.deps.json
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Infrastructure.dll
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Infrastructure.pdb
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Application.dll
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Domain.dll
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Application.pdb
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\bin\Debug\net9.0\CCR.Domain.pdb
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.csproj.AssemblyReference.cache
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.AssemblyInfoInputs.cache
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.AssemblyInfo.cs
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infr.5FBCA975.Up2Date
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.dll
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\refint\CCR.Infrastructure.dll
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\CCR.Infrastructure.pdb
+C:\Sawrav_Work\CCR\CCR.Backend\CCR.Infrastructure\obj\Debug\net9.0\ref\CCR.Infrastructure.dll
