@@ -1,6 +1,8 @@
 ﻿using CCR.Application.DTOs;
 using CCR.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace CCR.Api.Controllers;
 
@@ -27,5 +29,14 @@ public class UserController : ControllerBase
         {
             return BadRequest(ex.Message);
         }
+    }
+
+
+    [Authorize]
+    [HttpGet("debug")]
+    public IActionResult DebugToken()
+    {
+        var claims = User.Claims.Select(c => new { c.Type, c.Value }).ToList();
+        return Ok(claims);
     }
 }

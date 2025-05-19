@@ -23,7 +23,7 @@ namespace CCR.Application.Services
             }
 
             // Just for demo: hash is not secure here, use proper hashing in production
-            var passwordHash = Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(request.Password));
+            var passwordHash = BCrypt.Net.BCrypt.HashPassword(request.Password);
 
             var user = new User(
                 name: request.Name,
